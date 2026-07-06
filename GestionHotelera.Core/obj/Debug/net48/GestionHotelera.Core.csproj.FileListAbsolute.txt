@@ -1,0 +1,10 @@
+C:\Users\zakkc\.gemini\antigravity\scratch\GestionHotelera\GestionHotelera.Core\bin\Debug\net48\GestionHotelera.Core.dll
+C:\Users\zakkc\.gemini\antigravity\scratch\GestionHotelera\GestionHotelera.Core\bin\Debug\net48\GestionHotelera.Core.pdb
+C:\Users\zakkc\.gemini\antigravity\scratch\GestionHotelera\GestionHotelera.Core\obj\Debug\net48\GestionHotelera.Core.csproj.AssemblyReference.cache
+C:\Users\zakkc\.gemini\antigravity\scratch\GestionHotelera\GestionHotelera.Core\obj\Debug\net48\GestionHotelera.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zakkc\.gemini\antigravity\scratch\GestionHotelera\GestionHotelera.Core\obj\Debug\net48\GestionHotelera.Core.AssemblyInfoInputs.cache
+C:\Users\zakkc\.gemini\antigravity\scratch\GestionHotelera\GestionHotelera.Core\obj\Debug\net48\GestionHotelera.Core.AssemblyInfo.cs
+C:\Users\zakkc\.gemini\antigravity\scratch\GestionHotelera\GestionHotelera.Core\obj\Debug\net48\GestionHotelera.Core.csproj.CoreCompileInputs.cache
+C:\Users\zakkc\.gemini\antigravity\scratch\GestionHotelera\GestionHotelera.Core\obj\Debug\net48\GestionHotelera.Core.sourcelink.json
+C:\Users\zakkc\.gemini\antigravity\scratch\GestionHotelera\GestionHotelera.Core\obj\Debug\net48\GestionHotelera.Core.dll
+C:\Users\zakkc\.gemini\antigravity\scratch\GestionHotelera\GestionHotelera.Core\obj\Debug\net48\GestionHotelera.Core.pdb

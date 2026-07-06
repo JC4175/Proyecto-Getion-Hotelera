@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <RootNamespace>GestionHotelera.Consola</RootNamespace>
+    <AssemblyName>GestionHotelera.Consola</AssemblyName>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GestionHotelera.Core\GestionHotelera.Core.csproj" />
+  </ItemGroup>
+</Project>

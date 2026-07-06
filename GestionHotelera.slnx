@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GestionHotelera.Consola/GestionHotelera.Consola.csproj" />
+  <Project Path="GestionHotelera.Core/GestionHotelera.Core.csproj" />
+</Solution>

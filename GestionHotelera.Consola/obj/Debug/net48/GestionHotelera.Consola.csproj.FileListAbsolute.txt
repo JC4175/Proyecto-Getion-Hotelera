@@ -1,0 +1,14 @@
+C:\Users\zakkc\.gemini\antigravity\scratch\GestionHotelera\GestionHotelera.Consola\bin\Debug\net48\GestionHotelera.Consola.exe.config
+C:\Users\zakkc\.gemini\antigravity\scratch\GestionHotelera\GestionHotelera.Consola\bin\Debug\net48\GestionHotelera.Consola.exe
+C:\Users\zakkc\.gemini\antigravity\scratch\GestionHotelera\GestionHotelera.Consola\bin\Debug\net48\GestionHotelera.Consola.pdb
+C:\Users\zakkc\.gemini\antigravity\scratch\GestionHotelera\GestionHotelera.Consola\bin\Debug\net48\GestionHotelera.Core.dll
+C:\Users\zakkc\.gemini\antigravity\scratch\GestionHotelera\GestionHotelera.Consola\bin\Debug\net48\GestionHotelera.Core.pdb
+C:\Users\zakkc\.gemini\antigravity\scratch\GestionHotelera\GestionHotelera.Consola\obj\Debug\net48\GestionHotelera.Consola.csproj.AssemblyReference.cache
+C:\Users\zakkc\.gemini\antigravity\scratch\GestionHotelera\GestionHotelera.Consola\obj\Debug\net48\GestionHotelera.Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zakkc\.gemini\antigravity\scratch\GestionHotelera\GestionHotelera.Consola\obj\Debug\net48\GestionHotelera.Consola.AssemblyInfoInputs.cache
+C:\Users\zakkc\.gemini\antigravity\scratch\GestionHotelera\GestionHotelera.Consola\obj\Debug\net48\GestionHotelera.Consola.AssemblyInfo.cs
+C:\Users\zakkc\.gemini\antigravity\scratch\GestionHotelera\GestionHotelera.Consola\obj\Debug\net48\GestionHotelera.Consola.csproj.CoreCompileInputs.cache
+C:\Users\zakkc\.gemini\antigravity\scratch\GestionHotelera\GestionHotelera.Consola\obj\Debug\net48\GestionHotelera.Consola.sourcelink.json
+C:\Users\zakkc\.gemini\antigravity\scratch\GestionHotelera\GestionHotelera.Consola\obj\Debug\net48\GestionH.CDBC7064.Up2Date
+C:\Users\zakkc\.gemini\antigravity\scratch\GestionHotelera\GestionHotelera.Consola\obj\Debug\net48\GestionHotelera.Consola.exe
+C:\Users\zakkc\.gemini\antigravity\scratch\GestionHotelera\GestionHotelera.Consola\obj\Debug\net48\GestionHotelera.Consola.pdb

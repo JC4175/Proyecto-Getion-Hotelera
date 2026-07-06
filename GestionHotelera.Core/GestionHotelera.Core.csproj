@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <RootNamespace>GestionHotelera.Core</RootNamespace>
+    <AssemblyName>GestionHotelera.Core</AssemblyName>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+</Project>
