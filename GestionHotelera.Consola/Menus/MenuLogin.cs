@@ -49,7 +49,7 @@ namespace GestionHotelera.Consola.Menus
         {
             for (int i = 0; i < usuarios.Length; i++)
             {
-                if (usuarios[i] == usuario && claves[i] == clave)
+                if (usuarios[i].ToUpper() == usuario.ToUpper() && claves[i] == clave)
                 {
                     return i;
                 }
