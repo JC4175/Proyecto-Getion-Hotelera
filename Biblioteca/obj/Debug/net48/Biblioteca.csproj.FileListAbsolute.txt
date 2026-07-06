@@ -1,0 +1,10 @@
+C:\Users\zakkc\.gemini\antigravity\scratch\GestionHotelera\Biblioteca\bin\Debug\net48\Biblioteca.dll
+C:\Users\zakkc\.gemini\antigravity\scratch\GestionHotelera\Biblioteca\bin\Debug\net48\Biblioteca.pdb
+C:\Users\zakkc\.gemini\antigravity\scratch\GestionHotelera\Biblioteca\obj\Debug\net48\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\zakkc\.gemini\antigravity\scratch\GestionHotelera\Biblioteca\obj\Debug\net48\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zakkc\.gemini\antigravity\scratch\GestionHotelera\Biblioteca\obj\Debug\net48\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\zakkc\.gemini\antigravity\scratch\GestionHotelera\Biblioteca\obj\Debug\net48\Biblioteca.AssemblyInfo.cs
+C:\Users\zakkc\.gemini\antigravity\scratch\GestionHotelera\Biblioteca\obj\Debug\net48\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\zakkc\.gemini\antigravity\scratch\GestionHotelera\Biblioteca\obj\Debug\net48\Biblioteca.sourcelink.json
+C:\Users\zakkc\.gemini\antigravity\scratch\GestionHotelera\Biblioteca\obj\Debug\net48\Biblioteca.dll
+C:\Users\zakkc\.gemini\antigravity\scratch\GestionHotelera\Biblioteca\obj\Debug\net48\Biblioteca.pdb
